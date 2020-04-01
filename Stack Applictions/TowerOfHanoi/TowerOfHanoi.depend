@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584339639 source:c:\users\mohamed khaled\desktop\towerofhanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584339709 source:c:\users\mohamed khaled\desktop\data structure\stack applictions\towerofhanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+

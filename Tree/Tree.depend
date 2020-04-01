@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1585688587 source:c:\users\mohamed khaled\desktop\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Tree.h"
+
+1585414077 c:\users\mohamed khaled\desktop\tree\general.h
+
+1585775136 c:\users\mohamed khaled\desktop\tree\tree.h
+	"General.h"
+
+1585775023 source:c:\users\mohamed khaled\desktop\tree\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"Tree.h"
+

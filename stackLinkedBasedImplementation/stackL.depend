@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584214529 source:c:\users\mohamed khaled\desktop\stackl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1584246071 c:\users\mohamed khaled\desktop\stackl\stack.h
+	<stdio.h>
+
+1584246071 source:c:\users\mohamed khaled\desktop\stackl\stack.h
+	<stdio.h>
+
+1584209358 source:c:\users\mohamed khaled\desktop\stackl\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

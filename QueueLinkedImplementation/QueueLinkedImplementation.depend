@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584438014 source:c:\users\mohamed khaled\desktop\data structure\queuelinkedimplementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1584434011 c:\users\mohamed khaled\desktop\data structure\queuelinkedimplementation\queue.h
+
+1584438004 source:c:\users\mohamed khaled\desktop\data structure\queuelinkedimplementation\queue.c
+	"Queue.h"
+	<stdlib.h>
+

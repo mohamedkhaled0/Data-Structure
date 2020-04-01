@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1585430612 source:c:\users\mohamed khaled\desktop\search\main.c
+	<stdio.h>
+	<stdlib.h>
+	"General.h"
+	"List.h"
+
+1585410816 source:c:\users\mohamed khaled\desktop\search\list.c
+	"List.h"
+	<stdlib.h>
+
+1585410816 c:\users\mohamed khaled\desktop\search\list.h
+	"General.h"
+	"General.h"
+
+1585414077 c:\users\mohamed khaled\desktop\search\general.h
+
